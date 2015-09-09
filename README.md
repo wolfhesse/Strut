@@ -1,3 +1,5 @@
+**Note:** I've been working on Strut2.0: https://github.com/tantaman/strut2
+
 Strut
 =======
 
